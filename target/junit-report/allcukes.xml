@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="3">
+<testcase classname="HomePage Objects" name="Home Page products" time="0.283262">
+<system-out><![CDATA[Given I open the home page.........................................................passed
+When I explore the "HEALTH INSURANCE"....................................................passed
+Then I should see all the required package info...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomePage Objects" name="Home Page products" time="0.132515">
+<system-out><![CDATA[Given I open the home page.........................................................passed
+When I explore the "OTHER INSURANCE"....................................................passed
+Then I should see all the required package info...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomePage Objects" name="Home Page products" time="0.111037">
+<system-out><![CDATA[Given I open the home page.........................................................passed
+When I explore the "BETTER HEALTH".....................................................passed
+Then I should see all the required package info...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

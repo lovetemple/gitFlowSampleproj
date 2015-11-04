@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" tests="3">
+<testcase classname="HomePage Objects" name="Home Page products_3" time="0.12547">
+<skipped><![CDATA[Given I open the home page.........................................................passed
+When I explore the "HEALTH INSURANCE"....................................................passed
+Then I should see all the required info...................................................passed
+And I should be able to view detials about packages.............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="HomePage Objects" name="Home Page products_2" time="0.018742">
+<skipped><![CDATA[Given I open the home page.........................................................passed
+When I explore the "OTHER INSURANCE"....................................................passed
+Then I should see all the required info...................................................passed
+And I should be able to view detials about packages.............................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="HomePage Objects" name="Home Page products_1" time="0.006124">
+<skipped><![CDATA[Given I open the home page.........................................................passed
+When I explore the "BETTER HEALTH".....................................................passed
+Then I should see all the required info...................................................passed
+And I should be able to view detials about packages.............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
